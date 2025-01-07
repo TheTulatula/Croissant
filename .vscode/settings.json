@@ -1,0 +1,7 @@
+{
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "on"
+}
