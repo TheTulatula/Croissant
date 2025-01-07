@@ -1,8 +1,14 @@
 body {
-  font-family: sans-serif;
-  padding: 0 20px;
+  text-align: center;
+  margin: 30px;
+  line-height: 2;
+  background-color: aliceblue;
 }
 
 h1 {
-  color: blue;
+  color: rgb(75, 75, 231);
+  margin: 30px;
+}
+h2 {
+  margin: 20px;
 }
